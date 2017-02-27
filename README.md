@@ -1,0 +1,2 @@
+# MeanFilter
+image noise reduction
